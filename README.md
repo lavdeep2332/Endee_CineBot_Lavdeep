@@ -365,7 +365,3 @@ python sync_test.py
 **Built with [Endee](https://github.com/EndeeLabs/endee) — High-Performance Vector Search**
 
 </div>
-#   E n d e e _ C i n e B o t _ L a v d e e p  
- #   E n d e e _ C i n e B o t _ L a v d e e p  
- #   E n d e e _ C i n e B o t _ L a v d e e p  
- 
